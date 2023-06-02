@@ -1,0 +1,4 @@
+name: Explosivearrows
+version: '${project.version}'
+main: alexpetmecky.explosivearrows.Explosivearrows
+api-version: 1.19
